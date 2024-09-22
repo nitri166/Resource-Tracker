@@ -1,5 +1,3 @@
-# Shell Scripting Projects
-
 # AWS resource tracker
 This script automates the process of tracking the resources being used in AWS
 
